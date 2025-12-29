@@ -1,0 +1,180 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍷",
+  "titre": "Douceur Toscane et Sources Chaudes",
+  "budget_total": "2498 €",
+  "duree": "7 jours",
+  "date_debut": "2026-01-19",
+  "date_fin": "2026-01-26",
+  "temps_vol": "11h35 (depuis Bodin Khel, Pakistan via Islamabad)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Rome et Transfert en Toscane",
+      "legende": "Après votre vol, vous rejoindrez la magnifique région de la Toscane. Installez-vous dans votre hébergement à Montepulciano, une charmante ville médiévale perchée, et profitez d'une première soirée paisible pour vous imprégner de l'ambiance locale.",
+      "lieu": "Montepulciano, Toscane",
+      "activites": [
+        "<strong>🛬 Arrivée à FCO:</strong> Atterrissage à l'aéroport de Rome Fiumicino.",
+        "<strong>🚗 Transfert vers Montepulciano:</strong> Prise en charge de votre voiture de location et route vers le cœur de la Toscane (environ 2h30 de trajet).",
+        "<strong>🛏️ Installation et Dîner:</strong> Installation à votre hôtel ou agriturismo et dîner relaxant dans un restaurant local."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis Rome vers Montepulciano offre déjà des paysages magnifiques. Prévoyez une pause si nécessaire."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🍇",
+      "titre": "Exploration de Montepulciano et Dégustation de Vin",
+      "legende": "Découvrez les ruelles historiques de Montepulciano, ses palais Renaissance et ses vues panoramiques sur la campagne toscane. L'après-midi sera dédiée à une expérience œnologique relaxante, savourant les célèbres vins de la région.",
+      "lieu": "Montepulciano, Toscane",
+      "activites": [
+        "<strong>🚶‍♂️ Balade matinale à Montepulciano:</strong> Explorez la Piazza Grande, le Duomo et les boutiques artisanales de la ville.",
+        "<strong>🍷 Dégustation de Vino Nobile:</strong> Visite d'une cave locale pour une dégustation commentée du célèbre Vino Nobile di Montepulciano.",
+        "<strong>🌅 Coucher de soleil panoramique:</strong> Profitez d'un apéritif avec vue sur les collines toscanes au coucher du soleil."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "De nombreuses caves proposent des visites guidées suivies de dégustations. Réservez à l'avance pour garantir votre place."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Détente aux Thermes de Bagno Vignoni",
+      "legende": "Plongez dans l'atmosphère unique de Bagno Vignoni, un village thermal où une ancienne piscine d'eau chaude trône au milieu de la place principale. Profitez des bienfaits des eaux thermales pour une journée de pure relaxation et de bien-être.",
+      "lieu": "Bagno Vignoni, Toscane",
+      "activites": [
+        "<strong>🚗 Route vers Bagno Vignoni:</strong> Courte route pittoresque à travers le Val d'Orcia (environ 30 min).",
+        "<strong>♨️ Bains thermaux relaxants:</strong> Profitez des piscines thermales publiques ou privées de Bagno Vignoni pour une immersion totale.",
+        "<strong>🚶‍♀️ Promenade douce:</strong> Flânez dans le charmant village et le Parc des Moulins, découvrant les sources d'eau chaude naturelles."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🧴",
+          "titre": "Préparation",
+          "texte": "N'oubliez pas votre maillot de bain, une serviette et des sandales pour profiter pleinement des thermes."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🧀",
+      "titre": "Charme de Pienza et Paysages du Val d'Orcia",
+      "legende": "Explorez Pienza, la \"ville idéale\" de la Renaissance, célèbre pour son architecture et son Pecorino. L'après-midi sera consacrée à une balade contemplative à travers les paysages emblématiques du Val d'Orcia, classé au patrimoine mondial de l'UNESCO.",
+      "lieu": "Pienza, Toscane",
+      "activites": [
+        "<strong>🏛️ Visite de Pienza:</strong> Découvrez le Duomo, le Palazzo Piccolomini et les ruelles de cette ville charmante.",
+        "<strong>🧀 Dégustation de Pecorino:</strong> Goûtez aux différentes variétés de fromage Pecorino, spécialité locale.",
+        "<strong>🖼️ Route panoramique Val d'Orcia:</strong> Conduisez à travers les champs de blé et les cyprès, arrêtant pour admirer les vues iconiques."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Le Val d'Orcia offre des opportunités photographiques incroyables, surtout en fin d'après-midi."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "💆‍♀️",
+      "titre": "Bien-être aux Terme di Chianciano",
+      "legende": "Offrez-vous une journée de bien-être aux Terme di Chianciano, un complexe thermal moderne réputé pour ses eaux curatives. Profitez des piscines, des saunas et des soins pour une relaxation profonde et revitalisante, loin de l'agitation.",
+      "lieu": "Chianciano Terme, Toscane",
+      "activites": [
+        "<strong>♨️ Journée aux Terme di Chianciano:</strong> Accès aux piscines thermales, parcours bien-être et zones de relaxation.",
+        "<strong>🥗 Déjeuner léger:</strong> Profitez d'un déjeuner sain et équilibré au restaurant des thermes.",
+        "<strong>🧘‍♀️ Moment de détente:</strong> Laissez-vous porter par l'ambiance sereine et les bienfaits des eaux."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🗓️",
+          "titre": "Réservation",
+          "texte": "Il est conseillé de réserver votre entrée aux thermes, surtout si vous souhaitez des soins spécifiques."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏰",
+      "titre": "Immersion dans l'Histoire à Sienne",
+      "legende": "Partez pour une excursion d'une journée à Sienne, une ville médiévale d'une beauté exceptionnelle. Explorez sa célèbre Piazza del Campo, son Duomo majestueux et ses ruelles sinueuses, témoins d'un riche passé artistique et culturel.",
+      "lieu": "Sienne, Toscane",
+      "activites": [
+        "<strong>🚗 Route vers Sienne:</strong> Trajet d'environ 1h depuis Montepulciano.",
+        "<strong>🏛️ Visite de la Piazza del Campo:</strong> Admirez la place emblématique et le Palazzo Pubblico.",
+        "<strong>⛪ Exploration du Duomo de Sienne:</strong> Découvrez l'intérieur somptueux de la cathédrale et ses trésors artistiques.",
+        "<strong>🚶‍♂️ Flânerie dans les Contrade:</strong> Perdez-vous dans les quartiers historiques de Sienne."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Confort",
+          "texte": "Prévoyez des chaussures confortables, car Sienne est une ville vallonnée avec de nombreuses rues pavées."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "👋",
+      "titre": "Derniers Instants Toscans et Retour vers Rome",
+      "legende": "Profitez d'une dernière matinée en Toscane pour un petit-déjeuner typique ou un dernier achat souvenir. Ensuite, vous prendrez la route pour retourner vers Rome, vous rapprochant de l'aéroport pour votre vol de retour le lendemain.",
+      "lieu": "Rome, Latium",
+      "activites": [
+        "<strong>☕ Petit-déjeuner toscan:</strong> Savourez un dernier cappuccino et une pâtisserie locale.",
+        "<strong>🛍️ Achats de dernière minute:</strong> Trouvez quelques souvenirs ou produits locaux à rapporter.",
+        "<strong>🚗 Retour vers Rome:</strong> Route vers la capitale (environ 2h30) et installation près de l'aéroport ou dans le centre si le temps le permet."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Logistique",
+          "texte": "Il est recommandé de passer la dernière nuit à Rome ou à proximité de l'aéroport FCO pour faciliter le départ."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 813 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "295 €/pers (location voiture, essence, train)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "420 €/pers (7 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "840 €/pers (7 nuits, hôtel 3* ou agriturismo)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "130 €/pers (thermes, dégustation, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" },
+    { "titre": "Hiver (Janvier pour les thermes)", "symbole": "❄️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures en Toscane varient entre 0 et 10°C. Prévoir des vêtements chauds et imperméables, surtout pour les soirées.", "symbole": "🧣" },
+    { "titre": "Les cartes de crédit sont largement acceptées. Avoir un peu de liquide peut être utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Un permis de conduire international est recommandé en Italie. La conduite se fait à droite, et les zones à trafic limité (ZTL) sont courantes dans les centres-villes historiques.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale ou une eSIM est pratique pour la navigation GPS et rester connecté. Le Wi-Fi est généralement disponible dans les hébergements.", "symbole": "📶" },
+    { "titre": "La langue officielle est l'italien. Quelques notions de base seront appréciées, mais l'anglais est souvent parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ISB-FCO/2026-01-19/2026-01-26", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Italie", "url": "https://www.italia.it/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Italie", "url": "https://www.rentalcars.com/fr/country/it/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Italie", "url": "https://www.ilmeteo.it/", "symbole": "🌤️" }
+  ]
+}
